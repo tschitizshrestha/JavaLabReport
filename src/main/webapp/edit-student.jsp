@@ -102,6 +102,7 @@
         <div class="content">
             <form method="post">
                 <fieldset>
+                    <legend>Edit Student Details:</legend>
                     <label for="roll_no">Roll No:</label>
                     <input type="text" id="roll_no" name="roll_no" value="<%= student.getRoll_no() %>">
                     <label for="name">Name:</label>
