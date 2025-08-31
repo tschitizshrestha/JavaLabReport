@@ -7,8 +7,8 @@ import jakarta.mail.internet.MimeMessage;
 import java.util.Properties;
 
 public class EmailService {
-    private final String senderEmail = "sumitsainju111@gmail.com";
-    private final String senderPassword = "ginnsjbdtytarwqf ";
+    private final String senderEmail = "bibek01stha@gmail.com";
+    private final String senderPassword = "sccd ihjl ryfh potn ";
 
     public boolean sendEmail(EmailDetails details) {
         Properties props = new Properties();
